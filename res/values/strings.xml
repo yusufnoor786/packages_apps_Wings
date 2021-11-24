@@ -44,6 +44,7 @@
     <string name="listview">ListView</string>
 
     <string name="qs_category">Quick Settings</string>
+    <string name="buttons_category">Buttons</string>
 
     <!-- App info dialog -->
     <string name="extensions_dialog_title">Help us help you!</string>
@@ -68,4 +69,8 @@
     <string name="incall_vibrate_connect_title">Vibrate on connect</string>
     <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
     <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
+
+   <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">Enable advanced restart</string>
+    <string name="global_actions_advanced_reboot_summary">Show options for recovery and bootloader in power menu</string>
 </resources>
