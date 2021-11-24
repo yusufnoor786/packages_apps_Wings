@@ -45,6 +45,7 @@
 
     <string name="qs_category">Quick Settings</string>
     <string name="buttons_category">Buttons</string>
+    <string name="lockscreen_gestures_category">LockScreen Gesture</string>
 
     <!-- App info dialog -->
     <string name="extensions_dialog_title">Help us help you!</string>
@@ -80,4 +81,8 @@
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">Tap to sleep</string>
     <string name="double_tap_sleep_gesture_summary">Double-tap anywhere on the status bar to put the device to sleep</string>
+
+    <!--Double Tap to Sleep Lockscreen-->
+    <string name="lockscreen_tweaks_category_title">What to do</string>
+    <string name="double_tap_sleep_lockscreen_title">Double tap to sleep on lockscreen</string>
 </resources>
