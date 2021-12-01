@@ -44,7 +44,8 @@
     <string name="listview">ListView</string>
 
     <string name="qs_category">Quick Settings</string>
-    <string name="buttons_category">Buttons</string>
+    <string name="power_key">Power Button</string>
+    <string name="volume_keys">Volume Buttons</string>
     <string name="lockscreen_gestures_category">LockScreen Gesture</string>
 
     <!-- App info dialog -->
@@ -122,4 +123,12 @@
     <string name="vowifi_icon_simple3">Simple3 Icon</string>
     <string name="vowifi_icon_vivo">Vivo Icon</string>
     <string name="vowifi_icon_margaritov">Margaritov Icon</string>
+
+    <!-- Volume rocker music control -->
+    <string name="volume_rocker_music_controls_title">Playback control</string>
+    <string name="volume_rocker_music_controls_summary">When the screen is off, long-pressing the volume keys will seek music tracks</string>
+
+    <!-- Volume rocker wake -->
+    <string name="volume_rocker_wake_title">Volume rocker wake</string>
+    <string name="volume_rocker_wake_summary">Pressing the volume keys will wake your device</string>
 </resources>
