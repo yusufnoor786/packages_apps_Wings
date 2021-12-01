@@ -29,5 +29,17 @@
 
     </PreferenceCategory>
 
+    <PreferenceCategory
+        android:key="lockscreen_ui_general_category"
+        android:title="@string/misc_category">
+
+    <com.android.settings.custom.preference.SystemSettingSwitchPreference
+        android:key="lockscreen_battery_info"
+        android:title="@string/lockscreen_battery_info_title"
+        android:summary="@string/lockscreen_battery_info_summary"
+        android:defaultValue="true" />
+
+    </PreferenceCategory>
+
 </PreferenceScreen>
 
