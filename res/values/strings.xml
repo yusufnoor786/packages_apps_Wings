@@ -249,4 +249,9 @@
 
     <string name="gestures_title">Nav Bar Gesture Customisations</string>
     <string name="gestures_summary">Take Your Pill</string>
+
+    <!-- Lockscreen media artwork -->
+    <string name="lockscreen_media_blur_title">Media art blur level</string>
+    <string name="show_lockscreen_media_art_title">Show media art</string>
+    <string name="lockscreen_media_art_options_title">Lockscreen media art</string>
 </resources>
