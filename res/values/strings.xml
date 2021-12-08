@@ -51,6 +51,7 @@
     <string name="volume_keys">Volume Buttons</string>
     <string name="lockscreen_gestures_category">LockScreen Gesture</string>
     <string name="battery_settings_title">Battery Settings</string>   
+    <string name="gestures_category">Gestures Customizations</string>
 
     <!-- App info dialog -->
     <string name="extensions_dialog_title">Help us help you!</string>
@@ -245,4 +246,7 @@
     <!-- Combined signal icons -->
     <string name="combined_status_bar_signal_icons">Combined signal icons</string>
     <string name="combined_status_bar_signal_icons_summary">Enable combined signal icons in statusbar</string>
+
+    <string name="gestures_title">Nav Bar Gesture Customisations</string>
+    <string name="gestures_summary">Take Your Pill</string>
 </resources>
