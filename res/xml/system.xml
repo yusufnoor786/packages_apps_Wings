@@ -22,11 +22,11 @@
       <PreferenceCategory
         android:title="@string/gestures_category" >
 
-        <PreferenceScreen
+        <Preference
             android:title="@string/gestures_title"
             android:summary="@string/gestures_summary">
             <intent android:action="com.android.settings.GESTURE_NAVIGATION_SETTINGS" />
-        </PreferenceScreen>
+        </Preference>
 
        </PreferenceCategory>
 

@@ -91,7 +91,6 @@
 	        android:key="clock_options_category"
 	        android:summary="@string/clock_options_summary"
 	        android:title="@string/clock_options_title" />
-
     </PreferenceCategory>
 
    <PreferenceCategory
