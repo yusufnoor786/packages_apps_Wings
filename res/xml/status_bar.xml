@@ -19,11 +19,6 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
 
-    <Preference
-            android:key="traffic"
-            android:fragment="org.pixelextended.snowhouse.fragments.Traffic"
-            android:title="@string/traffic_title" />
-
    <PreferenceCategory
         android:key="statusbar_category"
         android:title="@string/status_bar_category">
@@ -35,6 +30,11 @@
                 android:targetPackage="com.android.systemui"
                 android:targetClass="com.android.systemui.tuner.StatusbarItemsActivity" />
         </Preference>
+
+        <Preference
+            android:key="traffic"
+            android:fragment="org.pixelextended.snowhouse.fragments.Traffic"
+            android:title="@string/traffic_title" />
 
          <com.android.settings.custom.preference.SystemSettingSwitchPreference
              android:key="show_fourg_icon"
