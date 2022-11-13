@@ -4,5 +4,10 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
 
+    <Preference
+        android:key="button_settings"
+        android:title="@string/button_pref_title"
+        android:order="-249"
+        android:fragment="com.android.settings.custom.buttons.ButtonSettings"/>
 
 </PreferenceScreen>
