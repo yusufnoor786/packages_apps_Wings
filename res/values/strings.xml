@@ -35,6 +35,8 @@
     <string name="color_title">Color</string>
     <string name="colors_title">Colors</string>
     <string name="misc_title">Miscellaneous</string>
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
 
     <!-- Extensions categories -->
     <string name="status_bar_category">Statusbar</string>
@@ -261,4 +263,12 @@
     <string name="unit_pixels" translatable="false">dp</string>
     <string name="unit_seconds">seconds</string>
     <string name="unit_x1000ms" translatable="false">x1000 ms</string>
+
+    <!-- UDFPS settings -->
+    <string name="udfps_settings_title">UDFPS customization</string>
+    <string name="udfps_settings_summary">Customize under-display fingerprint scanner</string>
+    <string name="udfps_icon_picker_title">UDFPS icon picker</string>
+    <string name="udfps_icon_picker_summary">Choose your favorite fingerprint icon</string>
+    <string name="udfps_recog_animation_effect_title">UDFPS animation effect</string>
+    <string name="udfps_recog_animation_effect_summary">Choose animation effect</string>
 </resources>
