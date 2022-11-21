@@ -27,4 +27,6 @@
     <color name="bottom_inactive">#99000000</color>
     <color name="bottombar_ripple">#1f000000</color>
 
+    <color name="option_border_default">#5f6368</color>
+
 </resources>
