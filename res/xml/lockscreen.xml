@@ -51,6 +51,12 @@
         settings:userRestriction="no_ambient_display"
         settings:controller="com.android.settings.gestures.DoubleTapAmbientPreferenceController" />
 
+		<!-- Media Art -->
+        <com.android.settings.custom.preference.SecureSettingSwitchPreference
+            android:key="lockscreen_media_metadata"
+            android:title="@string/lockscreen_media_art_title"
+            android:defaultValue="false" />
+
 		<!-- Pulse music visualizer -->
         <Preference
             android:key="pulse_settings"
