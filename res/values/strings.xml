@@ -285,4 +285,11 @@
     <string name="custom_fp_icon_summary">Enable custom UDFPS Icon from files</string>
     <string name="custom_fp_select_title">Select Custom UDFPS Icon</string>
     <string name="custom_fp_select_summary">Select custom image from your saved files or gallery</string>
+
+    <!-- Brightness slider -->
+    <string name="qqs_show_brightness_title">Show brightness slider in Quick QS panel</string>
+    <string name="brightness_slider_position_title">Brightness slider position</string>
+    <string name="top">Top</string>
+    <string name="bottom">Bottom</string>
+    <string name="show_auto_brightness_button_title">Show auto brightness button</string>
 </resources>
